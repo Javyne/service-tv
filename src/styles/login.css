@@ -1,0 +1,18 @@
+@import 'general.css';
+
+.contenedor{
+    background: rgb(223,246,255);
+    background: linear-gradient(121deg, rgba(223,246,255,1) 0%, rgba(93,139,244,1) 60%, rgba(45,49,250,1) 80%, rgba(5,19,103,1) 100%); 
+    width: 100vw;
+    height: 100vh;
+
+}
+
+.login{
+    background-color: rgba(223,246,255,0.75) !important;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    justify-content: center;
+}
+
